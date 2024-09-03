@@ -13157,7 +13157,6 @@ World.prototype.addContactMaterial = function(cmat) {
 };
 
 // performance.now()
-performance={}
 if(typeof performance === 'undefined'){
     performance = {};
 }

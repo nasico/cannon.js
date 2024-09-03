@@ -11,7 +11,7 @@
     "engine",
     "3d"
   ],
-  "main": "./src/Cannon.js",
+  "main": "./build/cannon.js",
   "engines": {
     "node": "*"
   },
